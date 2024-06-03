@@ -1,0 +1,9 @@
+/* TodoList.css */
+.todo-list {
+    margin-top: 1rem;
+  }
+  
+  .todo-list-no-todos {
+    color: #cbd5e0;
+  }
+  
